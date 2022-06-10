@@ -1,3 +1,6 @@
+ANNE LORAINNE C. LAGUNOY
+PEC 02 - FINAL PROJECT
+
 # hilowcardgame
 
 A new Flutter project.
